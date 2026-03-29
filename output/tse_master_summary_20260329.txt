@@ -1,0 +1,35 @@
+rows: 4097
+missing_company_name: 0
+missing_sector: 398
+missing_industry: 398
+
+[internal_category_counts]
+- non_financial: 3549
+- unknown: 315
+- bank: 93
+- securities: 45
+- leasing: 39
+- other_financial: 38
+- insurance: 18
+
+[financial_type_counts]
+- non_financial: 3864
+- regional_bank: 80
+- securities: 45
+- leasing: 39
+- other_financial: 38
+- bank: 11
+- insurance: 8
+- life_insurance: 6
+- p_and_c_insurance: 4
+- major_bank: 2
+
+[market_counts]
+- Prime: 1586
+- Standard: 1541
+- Growth: 497
+- ETF・ETN: 335
+- PRO Market: 72
+- REIT・ベンチャーファンド・カントリーファンド・インフラファンド: 62
+- グロース（外国株式）: 2
+- 出資証券: 2

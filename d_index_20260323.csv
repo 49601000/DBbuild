@@ -1,0 +1,4 @@
+Ticker,Market,Benchmark,defensive_score,Grade,①_below_ma_ratio,②_max_neg_dev,③_52w_low_vs_ma,④_max_drawdown,⑤_downside_vol,⑥_vol_pressure
+9432,JP,TOPIX(ETF),0.5261,B-,0.311,0.484,0.642,0.56,0.545,0.658
+7203,JP,TOPIX(ETF),0.3924,C,0.093,0.281,0.531,0.376,0.413,0.809
+7003,JP,TOPIX(ETF),0.2131,D-,0.169,0.08,0.148,0.095,0.087,0.919
